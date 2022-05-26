@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/App17/app/src/main/res/drawable/background_button.xml" value="0.281" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/App17/app/src/main/res/drawable/background_fragment.xml" value="0.281" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/App17/app/src/main/res/drawable/background_panel.xml" value="0.188" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/App17/app/src/main/res/drawable/ic_up.xml" value="0.281" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/App17/app/src/main/res/layout/activity_click.xml" value="0.3640625" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/App17/app/src/main/res/layout/activity_game.xml" value="0.1" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/App17/app/src/main/res/layout/activity_main.xml" value="0.378125" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/App17/app/src/main/res/layout/activity_main2.xml" value="0.378125" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/App17/app/src/main/res/layout/activity_rules.xml" value="0.25" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/App17/app/src/main/res/layout/activity_start.xml" value="0.15" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/App17/app/src/main/res/layout/activity_web_view.xml" value="0.3640625" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/App17/app/src/main/res/layout/fragment_game_over.xml" value="0.18" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/App17/app/src/main/res/layout/fragment_set_bet.xml" value="0.5" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
